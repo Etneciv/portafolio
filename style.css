@@ -1,0 +1,44 @@
+.bg-js{
+    background-color:#eeaf4b;
+}
+.bg-php{
+    background-color: #8690fa;
+}
+.bg-css{
+    background-color: #0096e6;
+}
+.bg-bs{
+ background-color: #553a7d;
+}
+.bg-ps{
+    background-color: #0a4eaf;
+}
+.bg-html{
+    background-color: #fc8c48;
+}
+.bg-godot{
+    background-color: #458dc0;
+}
+.bg-mysql{
+    background-color:  #ffa600;
+}
+.bg-react{
+    background-color:  #5adafd;
+}
+.bg-ag{
+    background-color: #dc0434;
+}
+.bg-vegas{
+    background-color: black;
+}
+.line{
+    height:1px;
+    background-color: #dee2e6;
+}
+
+.bg-pann{
+    background-image: url('/img/mywork/markov.PNG');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
